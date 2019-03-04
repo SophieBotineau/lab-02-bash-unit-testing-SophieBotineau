@@ -390,7 +390,7 @@ Expected equality of these values:
  1 FAILED TEST
 ```
 
-Oops, we failed our first test. Lets take a look at the output and try and see why.
+Oopsi, we failed our first test. Lets take a look at the output and try and see why.
 
 ```
 Expected equality of these values:
